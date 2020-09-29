@@ -1,3 +1,4 @@
+Build folder contain the game.
 
 there is only 3 scene on this game.
 
