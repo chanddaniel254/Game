@@ -8,3 +8,5 @@ To drop it click right mouse button again.
 
 i have also created simple inventory system where 4 items are already stored . you can find openBag button to the top rightcorner of the game
 to open the inventory and closeBag button to close the inventory;
+
+There is one door in the scene . If you move the character closer to the door the door automatically open and when you move the character away the door close.
